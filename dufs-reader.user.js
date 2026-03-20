@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DUFS Reader - 沉浸式文本阅读器
-// @namespace    https://github.com/YOUR_USERNAME/dufs-reader
+// @namespace    https://github.com/lushuaihui/dufs-reader
 // @version      1.2.0
 // @description  为DUFS文件服务器的文本文件提供沉浸式小说阅读体验
 // @author       lushuaihui
@@ -12,8 +12,8 @@
 // @grant        GM_addStyle
 // @run-at       document-end
 // @license      MIT
-// @updateURL    https://raw.githubusercontent.com/YOUR_USERNAME/dufs-reader/main/dufs-reader.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_USERNAME/dufs-reader/main/dufs-reader.user.js
+// @updateURL    https://raw.githubusercontent.com/lushuaihui/dufs-reader/main/dufs-reader.user.js
+// @downloadURL  https://raw.githubusercontent.com/lushuaihui/dufs-reader/main/dufs-reader.user.js
 // ==/UserScript==
 
 (function () {
